@@ -1,0 +1,38 @@
+ul{
+
+list-style:none;
+padding-left: 30%;
+
+}
+li{font-size: 30px;
+    font-style:normal;
+    display:inline;
+    margin-right:40px;
+}
+
+
+body{background-image: url(study3.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+
+background=position:center;
+
+}
+
+h1{font-style: italic;
+font-size:40px ;}
+
+p{font-style: oblique;
+font-size: 30px;}
+
+
+#one{color:green}
+
+#two{color: violet;}
+
+#three{color:brown}
+#sdiv{margin-left:30%;}
+#hdiv{margin-right: 30%;}
+h5{margin-top: 40px;
+color:brown}
+#gdiv{margin-right: 30%;}
